@@ -1,0 +1,7 @@
+# YOLOv11s 训练配置
+path: e:/code/dataser/workspace/dataset
+train: images/train
+val: images/val
+
+nc: 2
+names: ['sign', 'Yaw']
